@@ -1,0 +1,14 @@
+README.md
+setup.py
+dominionSolver/__init__.py
+dominionSolver.egg-info/PKG-INFO
+dominionSolver.egg-info/SOURCES.txt
+dominionSolver.egg-info/dependency_links.txt
+dominionSolver.egg-info/top_level.txt
+dominionSolver/checkerrors/__init__.py
+dominionSolver/functions/__init__.py
+dominionSolver/functions/save_game_data.py
+dominionSolver/objects/__init__.py
+dominionSolver/objects/cards.py
+dominionSolver/objects/gameplay.py
+dominionSolver/objects/players.py
